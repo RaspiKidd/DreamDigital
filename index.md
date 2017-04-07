@@ -9,4 +9,4 @@ This is a website to shwcase the games that the students were able to make withi
   <param name="movie" value="Keep_up.swf" />
   <param name="quality" value="high"/>
  </object>
-</html
+</html>
