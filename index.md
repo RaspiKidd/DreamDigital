@@ -4,14 +4,7 @@ This is a website to shwcase the games that the students were able to make withi
 
 ### Keep-up
 
-<object type="application/x-shockwave-flash" 
-
-  data="your-flash-file.swf" 
-
-  width="0" height="0">
-
-  <param name="movie" value="Keep_up.swf" />
-
-  <param name="quality" value="high"/>
-
+<object type="application/x-shockwave-flash" data="Keep_up.swf" width="0" height="0">
+ <param name="movie" value="Keep_up.swf" />
+ <param name="quality" value="high"/>
 </object>
