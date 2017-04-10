@@ -7,3 +7,6 @@ This is a website to shwcase the games that the students were able to make withi
 
 ### Beat The Goalie
 <object width="600px" height="600px" data="Beat_the_goalie.swf"></object>
+
+### Beat the Goalie 2
+<object width="600px" height="600px" data="BeatGoalie.swf"></object>
