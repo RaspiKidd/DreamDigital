@@ -5,11 +5,14 @@ This is a website to shwcase the games that the students were able to make withi
 ### Keep-up
 <object width="600px" height="600px" data="Keep_up.swf"></object>
 
-### Beat The Goalie
+### Goalie
 <object width="600px" height="600px" data="Beat_the_goalie.swf"></object>
 
-### Beat the Goalie 2
+### Beat the Goalie
 <object width="600px" height="600px" data="BeatGaolie.swf"></object>
 
 ### Shark Feast
 <object width="600px" height="600px" data="SharkFeast.swf"></object>
+
+### Etrian Odyssey: Initial Discovery
+<object width="600px" height="600px" data="Game.swf"></object>
